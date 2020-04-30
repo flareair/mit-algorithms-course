@@ -1,0 +1,14 @@
+{
+  "name": "mit_algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "no",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "flareair",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}

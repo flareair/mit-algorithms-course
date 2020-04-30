@@ -34,7 +34,7 @@ function findPeek(arr) {
 inputs.forEach((input, index) => {
     const peek = findPeek(input);
 
-    console.log(peek);
+    // console.log(peek);
     assert.equal(peek, outputs[index]);
 });
 
